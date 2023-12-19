@@ -1,0 +1,31 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    padding: 0 1rem;
+}
+.header-up{
+    padding: 1rem 0;
+}
+.logo{
+    color: brown;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: #a6a19d ;
+    font-weight: bolder;
+}
+.nav a{
+    width: 100%;
+    padding: 1rem 0;
+    text-align: center;
+}
+.nav a:hover{
+    background-color: brown;
+}
+.nav a:visited{
+    background-color: brown;
+}
+.nav a:first-child{
+    background-color: brown;
+}

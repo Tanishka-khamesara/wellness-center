@@ -1,0 +1,50 @@
+.landing-page{
+    background: url("https://www.thelifeacademygroup.com/wp-content/uploads/2021/10/testing-image2.jpg");
+    height:80vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.message-container{
+    background-color: #991f48;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2.5rem 2rem;
+    color: white;
+}
+.message-container p{
+    padding: 1rem 0;
+    text-align: center;
+}
+.btn-container{
+    display: flex;
+    gap: 2rem;
+}
+.details-container{
+    padding: 1rem 1.5rem;
+}
+.details-container p{
+    padding: 1rem 0;
+}
+.details-container p:first-child{
+    color: #991f48;
+}
+.address-container{
+padding: 1.5rem 0;
+}
+
+.inner-container-for-address{
+    width: 50%;
+    margin: auto;
+text-align: center;
+}
+.inner-container-for-address p{
+    padding: 1rem  0;
+}
+
+.inner-container-for-address p:first-child{
+color: #991f48;
+font-size: 1.2rem;
+}
